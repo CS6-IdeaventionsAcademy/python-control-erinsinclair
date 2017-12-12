@@ -1,5 +1,8 @@
-# Name
-# Date
-# Python Beginnings
-# 6 Password Checker
+# Erin J Sinclair
+# 111517
+# Password Cheker
+# Input the Password
+
+
+
 
